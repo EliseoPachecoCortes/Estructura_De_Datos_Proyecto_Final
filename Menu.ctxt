@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=libreria
+comment1.target=Menu(Libreria)
+comment10.params=nombre
+comment10.target=Usuario\ buscarUsuario(java.lang.String)
+comment11.params=
+comment11.target=void\ mostrarLibrosPorAutores()
+comment2.params=
+comment2.target=void\ mostrarMenu()
+comment3.params=
+comment3.target=void\ agregarLibro()
+comment4.params=
+comment4.target=void\ agregarAutor()
+comment5.params=
+comment5.target=void\ agregarCategoria()
+comment6.params=
+comment6.target=void\ agregarUsuario()
+comment7.params=
+comment7.target=void\ prestarLibro()
+comment8.params=
+comment8.target=void\ devolverLibro()
+comment9.params=titulo
+comment9.target=Libro\ buscarLibro(java.lang.String)
+numComments=12

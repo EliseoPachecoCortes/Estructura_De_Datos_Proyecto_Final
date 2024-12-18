@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ListaLigada
+comment1.params=
+comment1.target=ListaLigada()
+comment2.params=
+comment2.target=boolean\ estaVacia()
+comment3.params=libro
+comment3.target=boolean\ agregarAlInicio(Libro)
+comment4.params=libro
+comment4.target=boolean\ agregarAlFinal(Libro)
+comment5.params=
+comment5.target=Libro\ eliminarAlInicio()
+comment6.params=
+comment6.target=Libro\ eliminarAlFinal()
+comment7.params=
+comment7.target=Nodo\ getPrimero()
+numComments=8

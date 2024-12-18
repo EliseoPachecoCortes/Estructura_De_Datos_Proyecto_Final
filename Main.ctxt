@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=libreria\ archivoCSV
+comment2.target=void\ cargarLibrosDesdeCSV(Libreria,\ java.lang.String)
+comment3.params=libreria\ nombreAutor
+comment3.target=Autor\ buscarAutor(Libreria,\ java.lang.String)
+comment4.params=libreria\ nombreCategoria
+comment4.target=Categoria\ buscarCategoria(Libreria,\ java.lang.String)
+numComments=5

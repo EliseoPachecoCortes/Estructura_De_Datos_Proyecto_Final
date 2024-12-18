@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=QuickSort
+comment1.params=nums
+comment1.target=int[]\ sort(int[])
+comment2.params=nums\ inicio\ fin
+comment2.target=void\ quickSort(int[],\ int,\ int)
+comment3.params=nums\ i\ j
+comment3.target=void\ intercambiar(int[],\ int,\ int)
+numComments=4

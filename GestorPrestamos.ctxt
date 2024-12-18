@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GestorPrestamos
+comment1.params=
+comment1.target=GestorPrestamos()
+comment2.params=prestamo
+comment2.target=void\ agregarPrestamo(Prestamo)
+comment3.params=prestamo
+comment3.target=boolean\ eliminarPrestamo(Prestamo)
+comment4.params=libro\ usuario
+comment4.target=Prestamo\ buscarPrestamo(Libro,\ Usuario)
+comment5.params=
+comment5.target=java.util.List\ getPrestamos()
+comment6.params=
+comment6.target=void\ mostrarPrestamos()
+numComments=7

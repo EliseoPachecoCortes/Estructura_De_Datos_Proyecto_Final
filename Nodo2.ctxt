@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Nodo2
+comment1.params=prestamo
+comment1.target=Nodo2(Prestamo)
+comment2.params=
+comment2.target=Prestamo\ getPrestamo()
+comment3.params=prestamo
+comment3.target=void\ setPrestamo(Prestamo)
+comment4.params=sig
+comment4.target=void\ setSiguiente(Nodo2)
+comment5.params=
+comment5.target=Nodo2\ getSiguiente()
+numComments=6

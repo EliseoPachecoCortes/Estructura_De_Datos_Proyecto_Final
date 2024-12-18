@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=NodoAVL
+comment1.params=dato
+comment1.target=NodoAVL(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ getDato()
+comment3.params=dato
+comment3.target=void\ setDato(java.lang.Object)
+comment4.params=
+comment4.target=NodoAVL\ getIzq()
+comment5.params=izq
+comment5.target=void\ setIzq(NodoAVL)
+comment6.params=
+comment6.target=NodoAVL\ getDer()
+comment7.params=der
+comment7.target=void\ setDer(NodoAVL)
+comment8.params=
+comment8.target=int\ getAltura()
+comment9.params=altura
+comment9.target=void\ setAltura(int)
+numComments=10

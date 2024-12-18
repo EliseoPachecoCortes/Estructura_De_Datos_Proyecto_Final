@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Categoria
+comment1.params=nombre
+comment1.target=Categoria(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=otra
+comment3.target=int\ compareTo(Categoria)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

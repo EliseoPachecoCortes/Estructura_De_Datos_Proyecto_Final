@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Grafo
+comment1.params=
+comment1.target=Grafo()
+comment2.params=dato
+comment2.target=void\ agregarNodo(java.lang.Object)
+comment3.params=autor\ libro
+comment3.target=void\ agregarConexion(Autor,\ Libro)
+comment4.params=
+comment4.target=void\ mostrarGrafo()
+comment5.params=autor
+comment5.target=void\ mostrarLibrosDeAutor(Autor)
+numComments=6
